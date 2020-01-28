@@ -1,0 +1,66 @@
+body {
+  margin-left: 100px;
+  height: 100%;
+}
+
+h1 {
+  margin-left: 20%;
+  width: 300px;
+  margin-bottom: 100px;
+}
+
+.topo-esquerda {
+  font-weight: bold;
+  width: 100px;
+  height: 130px;
+}
+
+.topo-centro {
+  position: relative;
+  left: 110px;
+  bottom: 245px;
+}
+
+input {
+  margin-bottom: 12px;
+}
+
+select {
+  margin-bottom: 12px
+}
+
+.fundo-meio {
+  position: relative;
+  left: 110px;
+  bottom: 230px;
+}
+
+.fundo-esquerda {
+  font-weight: bold;
+  width: 100px;
+  height: 100px;
+  line-height: 1.5em;
+}
+
+.centro-texto {
+  font-weight: bold;
+  position: relative;
+  left: 505px;
+  bottom: 507px;
+  margin: 0;
+  width: 100px;
+}
+
+.centro-direita {
+  position: relative;
+  left: 570px;
+  bottom: 578px;
+  width: 240px;
+  margin: 0;
+}
+
+.botoes {
+  position: relative;
+  left: 400px;
+  bottom: 360px;
+}
